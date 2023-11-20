@@ -18,6 +18,10 @@ export const Content = styled.div`
   max-width: var(--maxWidth);
   padding: 0 20px;
 
+  .home-link {
+    text-decoration: underline;
+  }
+
   span {
     font-size: var(--fontMed);
     color: var(--white);

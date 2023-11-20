@@ -24,6 +24,7 @@ function MovieInfo({ movie }) {
         />
         <Text>
           <h1>{movie.title}</h1>
+          <hr />
           <h3>PLOT</h3>
           <p>{movie.overview}</p>
           <div className="rating-directors">

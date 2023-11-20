@@ -8,8 +8,8 @@ function BreadCrumb({ movieTitle }) {
   return (
     <Wrapper>
       <Content>
-        <Link to="/">
-          <span>Home</span>
+        <Link to="/" >
+          <span className="home-link" >Home</span>
         </Link>
         <span>🎬</span>
         <span>{movieTitle}</span>

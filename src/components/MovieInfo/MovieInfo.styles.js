@@ -44,16 +44,10 @@ export const Text = styled.div`
   }
 
   .score {
-    margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 35px;
-    height: 35px;
-    background: #fff;
-    color: #000;
-    font-weight: 800;
-    border-radius: 50%;
+    color: var(--white);
   }
 
   .director {
