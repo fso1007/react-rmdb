@@ -24,7 +24,7 @@ export const Content = styled.div`
   max-width: var(--maxWidth);
   margin: 0 auto;
   background: rgba(0, 0, 0, 0.7);
-  border-radius: 20px;
+  border-radius: 4px;
 
   @media screen and (max-width: 768px) {
     display: block;

@@ -5,7 +5,7 @@ export const Image = styled.img`
   max-width: 720px;
   transition: all 0.3s;
   object-fit: cover;
-  border-radius: 20px;
+  border-radius: 4px;
   animation: animateThumb 0.5s;
 
   &:hover {

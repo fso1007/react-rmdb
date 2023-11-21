@@ -20,7 +20,7 @@ export const Content = styled.div`
     align-items: center;
     justify-content: center;
     background: var(--medGrey);
-    border-radius: 20px;
+    border-radius: 4px;
     margin: 0 20px;
     flex: 1;
 

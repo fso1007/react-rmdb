@@ -15,7 +15,7 @@ export const Content = styled.div`
   height: 55px;
   background: var(--medGrey);
   margin: 0 auto;
-  border-radius: 40px;
+  border-radius: 4px;
   color: var(--white);
 
   img {

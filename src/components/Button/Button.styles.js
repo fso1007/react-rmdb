@@ -6,7 +6,7 @@ export const Wrapper = styled.button`
   width: 25%;
   min-width: 200px;
   height: 60px;
-  border-radius: 30px;
+  border-radius: 4px;
   color: var(--white);
   border: none;
   font-size: var(--fontBig);
